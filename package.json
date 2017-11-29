@@ -13,7 +13,6 @@
     "test": "NODE_ENV=production jest"
   },
   "keywords": [
-    "react-native",
     "login",
     "component",
     "screen"
